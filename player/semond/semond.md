@@ -24,8 +24,8 @@ last updated <b>23/01/2024</b>
 # [akiangel mixed](https://github.com/ryancranie/skinhub/raw/tyfh/player/semond/akiangel%20mixed.osk)
 [![](https://i.imgur.com/VzMOt6H.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/semond/akiangel%20mixed.osk)
 
-# [dinglekitoreo](https://github.com/Semond4/Skins/blob/tyfh/player/semond/dinglekitoreo.osk)
-[![](https://i.imgur.com/pIaWkb1.jpg)](https://github.com/Semond4/Skins/blob/tyfh/player/semond/dinglekitoreo.osk)
+# [dinglekitoreo](https://github.com/Semond4/Skins/raw/tyfh/player/semond/dinglekitoreo.osk)
+[![](https://i.imgur.com/pIaWkb1.jpg)](https://github.com/Semond4/Skins/raw/tyfh/player/semond/dinglekitoreo.osk)
 <p align="center">
   <br></br>
   <a href="https://www.twitch.tv/semondlive">
