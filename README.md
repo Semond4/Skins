@@ -6,7 +6,7 @@
        width="150"
        height="150"></a>
 <br>
-last updated <b>23/01/2024</b>
+last updated <b>27/01/2024</b>
 </p>
 
 # [- Semond X Makoto Nijima](https://github.com/ryancranie/skinhub/raw/tyfh/player/semond/-%20Semond%20X%20Makoto%20Nijima.osk)
@@ -25,7 +25,7 @@ last updated <b>23/01/2024</b>
 [![](https://i.imgur.com/VzMOt6H.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/semond/akiangel%20mixed.osk)
 
 # [dinglekitoreo](https://github.com/Semond4/Skins/blob/tyfh/player/semond/dinglekitoreo.osk)
-[![](https://imgur.com/a/e3oGAGz)](https://github.com/Semond4/Skins/blob/tyfh/player/semond/dinglekitoreo.osk)
+[![](https://imgur.com/a/e3oGAGz)] (https://github.com/Semond4/Skins/blob/tyfh/player/semond/dinglekitoreo.osk)
 <p align="center">
   <br></br>
   <a href="https://www.twitch.tv/semondlive">
