@@ -1,5 +1,5 @@
 # Semond's skinhub
-## hola
+
 <p align="center">
 <a href="https://osu.ppy.sh/users/18592109">
   <img src="https://a.ppy.sh/18592109"  
@@ -10,13 +10,13 @@ last updated <b>23/01/2024</b>
 </p>
 
 # [- Semond X Makoto Nijima](https://github.com/ryancranie/skinhub/raw/tyfh/player/semond/-%20Semond%20X%20Makoto%20Nijima.osk)
-[![](https://i.imgur.com/m3Mx2TT.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/semond/-%20Semond%20X%20Makoto%20Nijima.osk)
+[![](https://i.imgur.com/sEQl3qS.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/semond/-%20Semond%20X%20Makoto%20Nijima.osk)
 
 # [- Semond X Rektygon](https://github.com/ryancranie/skinhub/raw/tyfh/player/semond/-%20Semond%20X%20Rektygon.osk)
 [![](https://i.imgur.com/WNpq70Z.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/semond/-%20Semond%20X%20Rektygon.osk)
 
 # [- zibi instafade](https://github.com/ryancranie/skinhub/raw/tyfh/player/semond/-%20zibi%20instafade.osk)
-[![](https://i.imgur.com/sEQl3qS.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/semond/-%20zibi%20instafade.osk)
+[![](https://i.imgur.com/m3Mx2TT.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/semond/-%20zibi%20instafade.osk)
 
 # [404 SkinNotFound (defreeyay ver.)](https://github.com/ryancranie/skinhub/raw/tyfh/player/semond/404%20SkinNotFound%20(defreeyay%20ver.).osk)
 [![](https://i.imgur.com/4VAFhTS.jpeg)](https://github.com/ryancranie/skinhub/raw/tyfh/player/semond/404%20SkinNotFound%20(defreeyay%20ver.).osk)
@@ -40,7 +40,6 @@ last updated <b>23/01/2024</b>
        width="100" 
        height="100"></a>
   <br></br>
-  <a href="https://github.com/ryancranie/skinhub">rc_skinhub</a>
  </p>
 
 
