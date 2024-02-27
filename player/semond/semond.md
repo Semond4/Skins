@@ -31,7 +31,7 @@ last updated <b>27/02/2024</b>
 [![](https://i.imgur.com/ExGioyF.jpg)](https://github.com/Semond4/Skins/raw/tyfh/player/semond/Scylla%20Merami.osk)
 
 # [Frieren Intercambing Edit](https://github.com/Semond4/Skins/raw/tyfh/player/semond/Frieren%20intercambing%20edit.osk)
-[![](https://imgur.com/a/tIhn4DP.jpg)](https://github.com/Semond4/Skins/raw/tyfh/player/semond/Frieren%20intercambing%20edit.osk)
+[![](https://i.imgur.com/2npV2bc.jpeg)](https://github.com/Semond4/Skins/raw/tyfh/player/semond/Frieren%20intercambing%20edit.osk)
 <p align="center">
   <br></br>
   <a href="https://www.twitch.tv/semondlive">
