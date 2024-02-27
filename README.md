@@ -27,7 +27,7 @@ last updated <b>27/02/2024</b>
 # [dinglekitoreo](https://github.com/Semond4/Skins/raw/tyfh/player/semond/dinglekitoreo.osk)
 [![](https://i.imgur.com/pIaWkb1.jpg)](https://github.com/Semond4/Skins/raw/tyfh/player/semond/dinglekitoreo.osk)
 
-# [Scylla Merami](https://github.com/Semond4/Skins/raw/tyfh/player/semond/Scylla%20Merami.osk)
+# [Intercambing Frieren edit](https://github.com/Semond4/Skins/raw/tyfh/player/semond/Scylla%20Merami.osk)
 [![](https://i.imgur.com/2npV2bc.jpeg)](https://github.com/Semond4/Skins/raw/tyfh/player/semond/Scylla%20Merami.osk)
 
 
