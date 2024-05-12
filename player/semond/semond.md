@@ -6,7 +6,7 @@
        width="150"
        height="150"></a>
 <br>
-last updated <b>27/02/2024</b>
+last updated <b>12/05/2024</b>
 </p>
 
 # [- Semond X Makoto Nijima](https://github.com/ryancranie/skinhub/raw/tyfh/player/semond/-%20Semond%20X%20Makoto%20Nijima.osk)
@@ -26,9 +26,6 @@ last updated <b>27/02/2024</b>
 
 # [dinglekitoreo](https://github.com/Semond4/Skins/raw/tyfh/player/semond/dinglekitoreo.osk)
 [![](https://i.imgur.com/pIaWkb1.jpg)](https://github.com/Semond4/Skins/raw/tyfh/player/semond/dinglekitoreo.osk)
-
-# [Scylla Merami](https://github.com/Semond4/Skins/raw/tyfh/player/semond/Scylla%20Merami.osk)
-[![](https://i.imgur.com/ExGioyF.jpg)](https://github.com/Semond4/Skins/raw/tyfh/player/semond/Scylla%20Merami.osk)
 
 # [Frieren Intercambing Edit](https://github.com/Semond4/Skins/raw/tyfh/player/semond/Frieren%20intercambing%20edit.osk)
 [![](https://i.imgur.com/2npV2bc.jpeg)](https://github.com/Semond4/Skins/raw/tyfh/player/semond/Frieren%20intercambing%20edit.osk)
