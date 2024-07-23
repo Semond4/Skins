@@ -31,19 +31,16 @@ last updated <b>23/07/2024</b>
 [![](https://i.imgur.com/2npV2bc.jpeg)](https://github.com/Semond4/Skins/raw/tyfh/player/semond/Frieren%20intercambing%20edit.osk)
 
 # [Sumire Rafis](https://github.com/Semond4/Skins/raw/tyfh/player/semond/sumire%20rafis%20dt%20xD.osk)
-[![](https://imgur.com/a/Gt0spA0)](https://github.com/Semond4/Skins/raw/tyfh/player/semond/sumire%20rafis%20dt%20xD.osk)
+[![](https://i.imgur.com/Cd998wG.jpeg)](https://github.com/Semond4/Skins/raw/tyfh/player/semond/sumire%20rafis%20dt%20xD.osk)
 
 # [Boop Kawaii](https://github.com/Semond4/Skins/raw/tyfh/player/semond/boop%20kawaii.osk)
-[![](https://imgur.com/a/gXKE3dy)](https://github.com/Semond4/Skins/raw/tyfh/player/semond/boop%20kawaii.osk)
-
-# [Boop Kawaii](https://github.com/Semond4/Skins/raw/tyfh/player/semond/boop%20kawaii.osk)
-[![](https://imgur.com/a/gXKE3dy)](https://github.com/Semond4/Skins/raw/tyfh/player/semond/boop%20kawaii.osk)
+[![](https://i.imgur.com/g70zZ5L.jpeg)](https://github.com/Semond4/Skins/raw/tyfh/player/semond/boop%20kawaii.osk)
 
 # [RP - Mew Edit](https://github.com/Semond4/Skins/raw/tyfh/player/semond/RP%20-%20MEW%20EDIT.osk)
-[![](https://imgur.com/a/BWjq5r0)](https://github.com/Semond4/Skins/raw/tyfh/player/semond/RP%20-%20MEW%20EDIT.osk)
+[![](https://i.imgur.com/ggDYXGx.jpeg)](https://github.com/Semond4/Skins/raw/tyfh/player/semond/RP%20-%20MEW%20EDIT.osk)
 
 # [turboczibul_lite](https://github.com/Semond4/Skins/raw/tyfh/player/semond/turboczibul_lite.osk)
-[![](https://imgur.com/a/DwxuvZB)](https://github.com/Semond4/Skins/raw/tyfh/player/semond/turboczibul_lite.osk)
+[![](https://i.imgur.com/0o09GxD.jpeg)](https://github.com/Semond4/Skins/raw/tyfh/player/semond/turboczibul_lite.osk)
 
 <p align="center">
   <br></br>
